@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Joab Giraldo</h1>
 <h3 align="center">Un desarrollador frontend apasionado de Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_juniorr" target="blank"><img src="https: //img.escudos.io/twitter/follow/dev_juniorr?logo=twitter&style=for-the-badge" alt="dev_juniorr" /></a> </p>
-
 - 🌱 Actualmente estoy aprendiendo **Curso React js**
 
 - 👯 I Busco colaborar en [Globant](https://www.globant.com/es)
