@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Joab Giraldo</h1>
-<h3 align="center">Un desarrollador frontend apasionado de Colombia</h3>
+<h1 align="left">Hola 👋, soy Joab Giraldo</h1>
+<h3 align="left">Un desarrollador frontend apasionado de Colombia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Curso React js**
 
