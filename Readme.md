@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Joab Giraldo</h1>
-<h3 align="ce">Un desarrollador frontend apasionado de Colombia</h3>
+<h3 align="center">Un desarrollador frontend apasionado de Colombia</h3>
 <br/>
-
 - 🌱 Actualmente estoy aprendiendo **Curso React js**
 
 - 👯 I Busco colaborar en [Globant](https://www.globant.com/es)
