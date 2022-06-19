@@ -1,7 +1,7 @@
 Hi 👋 My name is Joab Giraldo
 =============================
 
-Web Developer and Designer
+Software Engineer!
 --------------------------
 
 * 🌍  I'm based in Ibagué, Colombia
