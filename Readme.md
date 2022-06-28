@@ -5,9 +5,10 @@ Software Engineer!
 --------------------------
 
 * 🌍  I'm based in Ibagué, Colombia
-<!-- * 🖥️  See my portfolio at [My Personal Professional Portfolio](http://portfolio-woad-one-86.vercel.app/) -->
-* ✉️  You can contact me at [joabgiraldo@gmail.com](mailto:joabgiraldo@gmail.com)
+* * ✉️  You can contact me at [joabgiraldo@gmail.com](mailto:joabgiraldo@gmail.com)
 * 🧠  I'm learning React JS
+<!-- * 🖥️  See my portfolio at [My Personal Professional Portfolio](http://portfolio-woad-one-86.vercel.app/) -->
+
 
 <a href="https://www.twitter.com/Dev_Juniorr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dev_Juniorr?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
