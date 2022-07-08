@@ -4,16 +4,12 @@
 Software Engineer!
 --------------------------
 
-* 🌍  I'm based in Ibagué, Colombia
-* ✉️  You can contact me at [joabgiraldo@gmail.com](mailto:joabgiraldo@gmail.com)
-* 🕷 My [Twitter](https://twitter.com/Dev_Juniorr)
-* 🧠  I'm learning React JS and Node JS
-<!-- * 🖥️  See my portfolio at [My Personal Professional Portfolio](http://portfolio-woad-one-86.vercel.app/) -->
-
 ```javascript
-const thai = {
-  code: [Html, Css, JavaScript, PHP,  MySQL, PostgreSQL],
+const skills = {
+  i_from: [Ibagué, Tolima, Colombia]
+  code: [Html, Css, JavaScript, PHP, MySQL, PostgreSQL],
   tools: [React, Next, Vite, Redux, Node, Styled-Components],
+  contact: "joabgiraldo@gmail.com",
  challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
 }
 ```
