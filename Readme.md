@@ -10,6 +10,13 @@ Software Engineer!
 * 🧠  I'm learning React JS and Node JS
 <!-- * 🖥️  See my portfolio at [My Personal Professional Portfolio](http://portfolio-woad-one-86.vercel.app/) -->
 
+```javascript
+const thai = {
+  code: [Html, Css, JavaScript, PHP,  MySQL, PostgreSQL],
+  tools: [React, Next, Vite, Redux, Node, Styled-Components],
+ challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
+}
+```
 
 <a href="https://www.twitter.com/Dev_Juniorr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dev_Juniorr?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
