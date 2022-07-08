@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=6000&color=FFF&background=7047FF00&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+my+name+is+Joab+Giraldo;And+I+am+a+Software+Developer!+)](https://git.io/typing-svg)
 =============================
 
-Software Engineer!
---------------------------
-
 ```php
 const me = {
 
+  rol: "Full Stack Developer Jr.",
   i_from: [Ibagué, Tolima, Colombia]
   code: [Html, Css, JavaScript, PHP, MySQL, PostgreSQL],
   tools: [React, Next, Vite, Redux, Node, Styled-Components],
