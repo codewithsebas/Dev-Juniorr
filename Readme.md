@@ -4,13 +4,15 @@
 Software Engineer!
 --------------------------
 
-```javascript
-const skills = {
+```php
+const me = {
+
   i_from: [Ibagué, Tolima, Colombia]
   code: [Html, Css, JavaScript, PHP, MySQL, PostgreSQL],
   tools: [React, Next, Vite, Redux, Node, Styled-Components],
   contact: "joabgiraldo@gmail.com",
- challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
+  challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
+  
 }
 ```
 
