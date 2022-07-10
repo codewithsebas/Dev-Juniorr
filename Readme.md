@@ -6,8 +6,8 @@ const me = {
 
   rol: "Full Stack Developer Jr.",
   i_from: [Ibagué, Tolima, Colombia]
-  code: [Html, Css, JavaScript, PHP, MySQL, PostgreSQL],
-  tools: [React, Next, Vite, Redux, Node, Styled-Components],
+  code: [Html, Css, JavaScript, PHP, NodeJS, MySQL, PostgreSQL],
+  tools: [React, Next, Vite, Redux, Express, Styled-Components, Git, TailwindCSS],
   contact: "joabgiraldo@gmail.com",
   challenge: "I am doing the #100DaysOfCode challenge focused on ReactJS and NodeJS"
   
