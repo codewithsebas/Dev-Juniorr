@@ -5,7 +5,7 @@
 const me = {
 
   rol: "Full Stack Developer Jr.",
-  i_from: [Ibagué, Tolima, Colombia]
+  i_from: [Ibagué, Tolima, Colombia],
   code: [Html, Css, Git, PHP, JavaScript, TypeScript, NodeJS, MySQL, SQL, MongoDB,  ReactJS, Bootstrap],
   tools: [React, Next, Vite, Redux, Express, Styled-Components, Git, TailwindCSS],
   contact: "joabgiraldo@gmail.com",
