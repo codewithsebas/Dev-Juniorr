@@ -18,7 +18,6 @@ const me = {
 src="https://img.shields.io/twitter/follow/Dev_Juniorr?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
 /></a><a href="https://www.github.com/Dev-Juniorr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dev-Juniorr?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dev-Juniorr.README.md)
 
 ### Socials
 
