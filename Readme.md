@@ -4,7 +4,7 @@
 ```javascript
 const me = {
 
-  rol: "Full Stack Developer Jr.",
+  rol: "UI / UX Designer & Full Stack Developer",
   i_from: [Ibagué, Tolima, Colombia],
   code: [Html, Css, Git, PHP, JavaScript, TypeScript, NodeJS, MySQL, SQL, MongoDB,  ReactJS, Bootstrap],
   tools: [React, Next, Vite, Redux, Express, Styled-Components, Git, TailwindCSS],
