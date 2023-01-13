@@ -2,9 +2,6 @@
   <h1> Hi! I'm Sebastian Giraldo, FullStack Developer & UX/UI Designer! </h1>
   </div>
 <div align="center">
-  <a href="https://github.com/codewithsebas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithsebas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsebas&layout=compact&langs_count=7&theme=dracula"/>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=codewithsebas&theme=horizon)](https://git.io/streak-stats)
 </div>
