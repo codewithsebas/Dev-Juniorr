@@ -16,10 +16,5 @@
 <div align="center">  
   <a href="https://www.instagram.com/codewithsebas/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/codewithsebas"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/code-sebastian-giraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br />
- 
- 
- ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
- 
+  <a href="https://www.linkedin.com/in/code-sebastian-giraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
