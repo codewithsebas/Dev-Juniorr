@@ -1,7 +1,6 @@
 # Hi there, I am Sebastian 👋
 
 - 🌐 I make web applications and websites
-- 💻 I make CLI and TUI tools
 - 🪙 I have worked in the web3 space and I am regularly learning new things in the space
 - 📝 I write blog posts to spread my knowledge on development and new technologies
 - 📖 I am always looking to learn new technologies and expand my knowledge
